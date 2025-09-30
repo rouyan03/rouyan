@@ -1,4 +1,4 @@
-### Hello, I'm Rpu Yan
+### Hello, I'm Rou Yan
 
 I'm from Malaysia. I graduated from HWU in Statistical Data Science. 
 
@@ -6,4 +6,4 @@ My hobbies:
 - Cafe hopping
 - Reading
 
-This is my github url: [Rou Yan's Github Profile](https://github.com/rouyan03)
+My github profile: [Click here](https://github.com/rouyan03)
